@@ -1,0 +1,2 @@
+INGEST_COLUMNS|Time|Duration|Call Type|Direction|Calling Number|Called Number|1st Tower LAT|1st Tower LONG|1st Tower Address|1st Tower City|1st Tower State|1st Tower Zip
+RENAMED_COLUMNS|Time:TIMESTAMP|Duration:DURATION|Calling Number:CALLER|Called Number:RECIPIENT|1st Tower LAT:LAT|1st Tower LONG:LONG
