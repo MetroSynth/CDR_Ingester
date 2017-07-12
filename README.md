@@ -1,4 +1,4 @@
-# CDR_Ingester
+# CALL DETAIL RECORD INGESTION UTILITY #
 Call Detail Record Ingestor Utility for Major U.S. Carriers (DEV Repo)
 
 ## ABOUT ##
